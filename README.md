@@ -23,13 +23,14 @@ On a high level, Docker is a tool that allows you to package an application and 
 ## Steps to take
 1. Set up project
 2. Create dockerfile
-3. Add AWS IAM user credentials to github secrets
-4. Write cicd pipeline
+3. Create docker-compose file
+4. Add AWS IAM user credentials to github secrets
+5. Write cicd pipeline
 
 ## Step 1: Set Up Project
 Skip this step if you already have a project to deploy.
 
-If you don't have a project, go to this []() url and download this simple node express application and push to your github
+If you don't have a project, go to this [github-project](https://github.com/Pearlicia/simple-nodejs-server.git) url and download this simple node express application and push to your github
 
 ## Step 2: Create Dockerfile
 
